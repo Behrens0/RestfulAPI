@@ -1,4 +1,4 @@
-API para manejar requests de CUstomers
+API para manejar requests de Customers
 
 Descripcion
 LA API ofrece distintos servicios básicos, de forma segura, a clientes, tales como el registro de nuevas regiones y comunas, registro de nuevos usuarios, eliminacion de los mismos y extraccion de informacion de una base de datos con los customers registrados.
